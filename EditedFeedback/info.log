@@ -1,0 +1,217 @@
+2018-09-25 12:36:41,952 INFO [root] - program for insertion started
+2018-09-25 12:36:43,440 INFO [root] - name is set :: tarun
+2018-09-25 12:36:43,440 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:36:43,456 INFO [root] - data is getting stored
+2018-09-25 12:36:43,543 INFO [root] - data is stored with emp id :: 10006
+2018-09-25 12:37:05,780 INFO [root] - program for insertion started
+2018-09-25 12:37:06,767 INFO [root] - name is set :: tarun
+2018-09-25 12:37:06,767 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:37:06,783 INFO [root] - data is getting stored
+2018-09-25 12:37:06,830 INFO [root] - data is stored with emp id :: 10007
+2018-09-25 12:38:06,013 INFO [root] - program for insertion started
+2018-09-25 12:38:06,954 INFO [root] - name is set :: tarun
+2018-09-25 12:38:06,954 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:38:06,969 INFO [root] - data is getting stored
+2018-09-25 12:38:07,016 INFO [root] - data is stored with emp id :: 10008
+2018-09-25 12:39:19,524 INFO [root] - program for insertion started
+2018-09-25 12:39:20,499 INFO [root] - name is set :: tarun
+2018-09-25 12:39:20,499 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:39:20,523 INFO [root] - data is getting stored
+2018-09-25 12:39:20,567 INFO [root] - data is stored with emp id :: 10009
+2018-09-25 12:41:01,280 INFO [root] - program for insertion started
+2018-09-25 12:41:02,279 INFO [root] - name is set :: tarun
+2018-09-25 12:41:02,279 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:02,295 INFO [root] - data is getting stored
+2018-09-25 12:41:02,342 INFO [root] - data is stored with emp id :: 10010
+2018-09-25 12:41:14,096 INFO [root] - program for insertion started
+2018-09-25 12:41:15,107 INFO [root] - name is set :: tarun
+2018-09-25 12:41:15,107 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:15,139 INFO [root] - data is getting stored
+2018-09-25 12:41:15,186 INFO [root] - data is stored with emp id :: 10011
+2018-09-25 12:41:15,186 INFO [root] - program for insertion started
+2018-09-25 12:41:15,201 INFO [root] - name is set :: tarun
+2018-09-25 12:41:15,201 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:15,217 INFO [root] - data is getting stored
+2018-09-25 12:41:15,217 INFO [root] - data is stored with emp id :: 10012
+2018-09-25 12:41:27,995 INFO [root] - program for insertion started
+2018-09-25 12:41:29,029 INFO [root] - name is set :: tarun
+2018-09-25 12:41:29,029 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:29,060 INFO [root] - data is getting stored
+2018-09-25 12:41:29,107 INFO [root] - data is stored with emp id :: 10013
+2018-09-25 12:41:29,107 INFO [root] - program for insertion started
+2018-09-25 12:41:29,138 INFO [root] - name is set :: tarun
+2018-09-25 12:41:29,138 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:29,138 INFO [root] - data is getting stored
+2018-09-25 12:41:29,138 INFO [root] - data is stored with emp id :: 10014
+2018-09-25 12:41:46,409 INFO [root] - program for insertion started
+2018-09-25 12:41:47,407 INFO [root] - name is set :: tarun
+2018-09-25 12:41:47,407 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:47,422 INFO [root] - data is getting stored
+2018-09-25 12:41:47,501 INFO [root] - data is stored with emp id :: 10015
+2018-09-25 12:41:47,501 INFO [root] - program for insertion started
+2018-09-25 12:41:47,549 INFO [root] - name is set :: tarun
+2018-09-25 12:41:47,549 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:41:47,553 INFO [root] - data is getting stored
+2018-09-25 12:41:47,553 INFO [root] - data is stored with emp id :: 10016
+2018-09-25 12:42:16,903 INFO [root] - program for insertion started
+2018-09-25 12:42:17,906 INFO [root] - name is set :: tarun
+2018-09-25 12:42:17,906 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:42:17,922 INFO [root] - data is getting stored
+2018-09-25 12:42:17,977 INFO [root] - data is stored with emp id :: 10017
+2018-09-25 12:42:17,981 INFO [root] - program for insertion started
+2018-09-25 12:42:18,001 INFO [root] - name is set :: tarun
+2018-09-25 12:42:18,001 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:42:18,001 INFO [root] - data is getting stored
+2018-09-25 12:42:18,001 INFO [root] - data is stored with emp id :: 10018
+2018-09-25 12:43:13,563 INFO [root] - program for insertion started
+2018-09-25 12:43:14,632 INFO [root] - name is set :: tarun
+2018-09-25 12:43:14,632 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:43:14,653 INFO [root] - data is getting stored
+2018-09-25 12:43:14,699 INFO [root] - data is stored with emp id :: 10019
+2018-09-25 12:43:14,699 INFO [root] - program for insertion started
+2018-09-25 12:43:14,730 INFO [root] - name is set :: tarun
+2018-09-25 12:43:14,730 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:43:14,730 INFO [root] - data is getting stored
+2018-09-25 12:43:14,730 INFO [root] - data is stored with emp id :: 10020
+2018-09-25 12:43:53,652 INFO [root] - program for insertion started
+2018-09-25 12:43:54,651 INFO [root] - name is set :: tarun
+2018-09-25 12:43:54,651 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:43:54,651 INFO [root] - data is getting stored
+2018-09-25 12:43:54,760 INFO [root] - data is stored with emp id :: 10021
+2018-09-25 12:43:54,760 INFO [root] - program for insertion started
+2018-09-25 12:43:54,791 INFO [root] - name is set :: tarun
+2018-09-25 12:43:54,791 WARN [root] - data may not be stored due to DB issue
+2018-09-25 12:43:54,807 INFO [root] - data is getting stored
+2018-09-25 12:43:54,807 INFO [root] - data is stored with emp id :: 10022
+2018-10-25 15:04:43,800 INFO [root] - program for insertion started
+2018-10-25 15:04:45,112 INFO [root] - name is set :: Mr. ravi
+2018-10-25 15:04:45,112 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:04:45,136 INFO [root] - data is getting stored
+2018-10-25 15:04:45,199 INFO [root] - data is stored with emp id :: 10041
+2018-10-25 15:38:30,040 INFO [root] - program for insertion started
+2018-10-25 15:38:31,152 INFO [root] - name is set :: tarun
+2018-10-25 15:38:31,152 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:38:31,168 INFO [root] - data is getting stored
+2018-10-25 15:38:31,215 INFO [root] - data is stored with emp id :: 10042
+2018-10-25 15:38:31,215 INFO [root] - program for insertion started
+2018-10-25 15:38:31,246 INFO [root] - name is set :: tarun
+2018-10-25 15:38:31,246 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:38:31,246 INFO [root] - data is getting stored
+2018-10-25 15:38:31,246 INFO [root] - data is stored with emp id :: 10043
+2018-10-25 15:39:03,994 INFO [root] - program for insertion started
+2018-10-25 15:39:05,186 INFO [root] - name is set :: tarun
+2018-10-25 15:39:05,186 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:39:05,186 INFO [root] - data is getting stored
+2018-10-25 15:39:05,233 INFO [root] - data is stored with emp id :: 10044
+2018-10-25 15:39:05,248 INFO [root] - program for insertion started
+2018-10-25 15:39:05,264 INFO [root] - name is set :: tarun
+2018-10-25 15:39:05,264 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:39:05,264 INFO [root] - data is getting stored
+2018-10-25 15:39:05,264 INFO [root] - data is stored with emp id :: 10045
+2018-10-25 15:39:30,310 INFO [root] - program for insertion started
+2018-10-25 15:39:31,451 INFO [root] - name is set :: tarun
+2018-10-25 15:39:31,451 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:39:31,467 INFO [root] - data is getting stored
+2018-10-25 15:39:31,514 INFO [root] - data is stored with emp id :: 10046
+2018-10-25 15:39:31,529 INFO [root] - program for insertion started
+2018-10-25 15:39:31,560 INFO [root] - name is set :: tarun
+2018-10-25 15:39:31,560 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:39:31,560 INFO [root] - data is getting stored
+2018-10-25 15:39:31,560 INFO [root] - data is stored with emp id :: 10047
+2018-10-25 15:39:43,464 INFO [root] - program for insertion started
+2018-10-25 15:39:44,484 INFO [root] - name is set :: tarun
+2018-10-25 15:39:44,484 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:39:44,501 INFO [root] - data is getting stored
+2018-10-25 15:39:44,547 INFO [root] - data is stored with emp id :: 10048
+2018-10-25 15:39:44,547 INFO [root] - program for insertion started
+2018-10-25 15:39:44,578 INFO [root] - name is set :: tarun
+2018-10-25 15:39:44,578 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:39:44,578 INFO [root] - data is getting stored
+2018-10-25 15:39:44,578 INFO [root] - data is stored with emp id :: 10049
+2018-10-25 15:40:13,580 INFO [root] - program for insertion started
+2018-10-25 15:40:14,626 INFO [root] - name is set :: tarun
+2018-10-25 15:40:14,626 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:40:14,642 INFO [root] - data is getting stored
+2018-10-25 15:40:14,693 INFO [root] - data is stored with emp id :: 10050
+2018-10-25 15:40:14,693 INFO [root] - program for insertion started
+2018-10-25 15:40:14,709 INFO [root] - name is set :: tarun
+2018-10-25 15:40:14,709 WARN [root] - data may not be stored due to DB issue
+2018-10-25 15:40:14,725 INFO [root] - data is getting stored
+2018-10-25 15:40:14,725 INFO [root] - data is stored with emp id :: 10051
+2018-11-05 12:07:12,514 INFO [root] - program for insertion started
+2018-11-05 12:07:13,138 ERROR [root] - error : ORA-01017: invalid username/password; logon denied
+
+2018-11-05 12:24:56,002 INFO [root] - program for insertion started
+2018-11-05 12:24:56,736 INFO [root] - name is set :: Mr. Prem
+2018-11-05 12:24:56,736 WARN [root] - data may not be stored due to DB issue
+2018-11-05 12:24:56,783 ERROR [root] - error : ORA-12899: value too large for column "SYSTEM"."EMPLOYEE1"."MAILID" (actual: 24, maximum: 20)
+
+2018-11-05 12:25:43,673 INFO [root] - program for insertion started
+2018-11-05 12:25:44,400 INFO [root] - name is set :: Mr. Prem
+2018-11-05 12:25:44,400 WARN [root] - data may not be stored due to DB issue
+2018-11-05 12:25:44,400 INFO [root] - data is getting stored
+2018-11-05 12:25:44,517 INFO [root] - data is stored with emp id :: 102
+2018-11-05 12:44:13,341 INFO [root] - program for insertion started
+2018-11-05 12:44:14,072 INFO [root] - name is set :: Mr. Hrithik
+2018-11-05 12:44:14,072 WARN [root] - data may not be stored due to DB issue
+2018-11-05 12:44:14,134 INFO [root] - data is getting stored
+2018-11-05 12:44:14,213 INFO [root] - data is stored with emp id :: 103
+2018-11-05 12:45:36,981 INFO [root] - program for insertion started
+2018-11-05 12:45:37,122 INFO [root] - name is set :: Mr. Laxmi
+2018-11-05 12:45:37,122 WARN [root] - data may not be stored due to DB issue
+2018-11-05 12:45:37,200 INFO [root] - data is getting stored
+2018-11-05 12:45:37,200 INFO [root] - data is stored with emp id :: 104
+2018-11-05 16:31:18,740 ERROR [root] - ORA-00904: "EMP_ID": invalid identifier
+
+2018-11-05 16:35:36,207 ERROR [root] - ORA-00904: "EMP_ID": invalid identifier
+
+2018-11-05 16:37:45,926 ERROR [root] - ORA-00904: "EMP_ID": invalid identifier
+
+2018-11-05 16:38:15,487 ERROR [root] - ORA-00904: "EMP_ID": invalid identifier
+
+2018-11-05 16:41:04,031 ERROR [root] - Fail to convert to internal representation
+2018-11-05 16:42:24,335 ERROR [root] - Invalid column index
+2018-11-05 17:10:14,021 ERROR [root] - Invalid column index
+2018-11-05 17:10:25,802 ERROR [root] - Invalid column index
+2018-11-05 17:10:50,864 ERROR [root] - ORA-00904: "EMP_ID": invalid identifier
+
+2018-11-05 17:11:33,822 ERROR [root] - Fail to convert to internal representation
+2018-11-05 17:16:28,321 ERROR [root] - Fail to convert to internal representation
+2018-11-05 17:17:13,751 INFO [root] - Record Found Successfully
+2018-11-05 17:17:25,370 ERROR [root] - Fail to convert to internal representation
+2018-11-05 17:17:38,891 ERROR [root] - Fail to convert to internal representation
+2018-11-05 17:18:10,093 INFO [root] - Record Found Successfully
+2018-11-05 17:21:18,389 INFO [root] - program for insertion started
+2018-11-05 17:21:18,420 INFO [root] - name is set :: Mr. Karthik
+2018-11-05 17:21:18,420 WARN [root] - data may not be stored due to DB issue
+2018-11-05 17:21:18,436 INFO [root] - data is getting stored
+2018-11-05 17:21:18,436 INFO [root] - data is stored with emp id :: 105
+2018-11-05 17:21:24,483 ERROR [root] - Fail to convert to internal representation
+2018-11-05 17:23:19,817 INFO [root] - program for insertion started
+2018-11-05 17:23:19,848 INFO [root] - name is set :: Mr. Premchand
+2018-11-05 17:23:19,848 WARN [root] - data may not be stored due to DB issue
+2018-11-05 17:23:19,864 INFO [root] - data is getting stored
+2018-11-05 17:23:19,864 INFO [root] - data is stored with emp id :: 106
+2018-11-05 17:23:25,763 ERROR [root] - Fail to convert to internal representation
+2018-11-05 17:28:09,155 INFO [root] - Record Found Successfully
+2018-11-05 17:29:53,097 INFO [root] - Record Found Successfully
+2018-11-05 17:59:56,870 INFO [root] - program for insertion started
+2018-11-05 17:59:57,596 INFO [root] - name is set :: Mr. Sachin
+2018-11-05 17:59:57,596 WARN [root] - data may not be stored due to DB issue
+2018-11-05 17:59:57,596 INFO [root] - data is getting stored
+2018-11-05 17:59:57,658 INFO [root] - data is stored with emp id :: 2
+2018-11-05 18:03:48,575 INFO [root] - Record Found Successfully
+2018-11-05 18:40:53,138 INFO [root] - Record Found Successfully
+2018-11-05 18:46:54,645 INFO [root] - program for insertion started
+2018-11-05 18:46:55,346 INFO [root] - name is set :: Mr. sagar
+2018-11-05 18:46:55,346 WARN [root] - data may not be stored due to DB issue
+2018-11-05 18:46:55,362 INFO [root] - data is getting stored
+2018-11-05 18:46:55,408 INFO [root] - data is stored with emp id :: 3
+2018-11-05 19:39:58,454 ERROR [root] - ORA-00904: "EMPID": invalid identifier
+
+2018-11-05 19:41:05,543 ERROR [root] - Invalid column name
+2018-11-05 19:43:27,255 ERROR [root] - Missing IN or OUT parameter at index:: 1
+2018-11-05 19:45:32,343 ERROR [root] - Missing IN or OUT parameter at index:: 1
+2018-11-05 19:46:51,942 ERROR [root] - Missing IN or OUT parameter at index:: 6
+2018-11-05 19:52:12,488 ERROR [root] - ORA-00904: "EMAIL": invalid identifier
+

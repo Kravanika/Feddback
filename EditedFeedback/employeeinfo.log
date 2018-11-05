@@ -1,0 +1,11 @@
+2018-09-24 15:05:25,844 INFO [root] - program for insertion started
+2018-09-24 15:05:27,018 INFO [root] - name is set :: Mr. divya
+2018-09-24 15:05:27,018 WARN [root] - data may not be stored due to DB issue
+2018-09-24 15:05:27,030 INFO [root] - data is getting stored
+2018-09-24 15:05:27,083 INFO [root] - data is stored with emp id :: 10005
+2018-09-24 15:06:22,752 INFO [root] - program for insertion started
+2018-09-24 15:06:23,703 INFO [root] - name is set :: Mr. ddd
+2018-09-24 15:06:23,703 WARN [root] - data may not be stored due to DB issue
+2018-09-24 15:06:23,719 INFO [root] - data is getting stored
+2018-09-24 15:06:23,719 ERROR [root] - error : ORA-08002: sequence EMP_SEQ3.CURRVAL is not yet defined in this session
+
